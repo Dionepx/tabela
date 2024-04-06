@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;	
+	
+}
+
+.A h1,h2 {
+	margin: 30px;
+	line-height: 1px;
+}
+
+.B  {
+	margin: 30px;
+	line-height: 1px;
+}
+
+.C {
+	width: 500px;
+	height: 30px;
+	padding: 1px;
+	margin-top: 200px;
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+.C {
+	font-size: 30px;
+	text-align: center;
+	border-collapse: collapse;
+	
+}
+
+.C tr,td,th {
+	border: 2px solid black;
+
+}
+
+.C th {
+	background: rgb(186, 192, 247); 
+}
+.C td {
+	background: rgb(247, 247, 235);
+}
